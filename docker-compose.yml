@@ -57,7 +57,7 @@ services:
       - seanai-network
 
   # =====================
-  # MySQL
+  # MySQL Database
   # =====================
   db:
     image: mysql:8.0
